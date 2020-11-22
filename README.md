@@ -4,23 +4,15 @@ It is a recipe of pizza
 
 the Ingredients used to make pizza:
 
-Yeast
-
-sugar
-
-Flour
-
-olive oil
-
-salt
-
-vegetables
-
-cheese
-
-corn meal
-
-pizza sauce
+Yeast<br>
+sugar<br>
+Flour<br>
+olive oil<br>
+salt<br>
+vegetables<br>
+cheese<br>
+corn meal<br>
+pizza sauce<br>
 
 
 
