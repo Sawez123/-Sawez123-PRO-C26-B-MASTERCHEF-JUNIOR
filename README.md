@@ -1,5 +1,5 @@
 # My recipe
-## It is a recipe of pizza 
+It is a recipe of pizza 
 
 
 ### the Ingredients used to make pizza:
@@ -16,7 +16,7 @@ pizza sauce<br>
 
 
 
-### recipe to make a pizza :
+ **recipe to make a pizza** :
 
 Step 1: Pour luke warm water to a warm bowl
 
