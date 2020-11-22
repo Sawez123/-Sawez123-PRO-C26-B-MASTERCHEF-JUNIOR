@@ -1,8 +1,8 @@
 # My recipe
-It is a recipe of pizza 
+## It is a recipe of pizza 
 
 
-the Ingredients used to make pizza:
+### the Ingredients used to make pizza:
 
 Yeast<br>
 sugar<br>
@@ -16,7 +16,7 @@ pizza sauce<br>
 
 
 
-recipe to make a pizza :
+### recipe to make a pizza :
 
 Step 1: Pour luke warm water to a warm bowl
 
@@ -40,7 +40,7 @@ Step 10: Next transfer the dough to the work area and punch it down to deflate.
 
 Step 11: Sprinkle some corn meal evenly on a tray. Flatten a ball and add few drops of oil. Begin to spread and stretch the dough. Flatten to a 9 inch thin even base.
 
- Step 12: Next spread pizza sauce as desired.
+Step 12: Next spread pizza sauce as desired.
 
 Step 13:  Lastly layer cheese. Then veggies of your choice. 
 
